@@ -12,3 +12,17 @@ bother.
 No warranty offered, use at your own risk.
 
 Copyright (c) 2019 alertedsnake
+
+Installation
+------------
+
+Git clone this somewhere, then go to chrome://extensions/ and turn on
+``Developer mode``.
+
+Then use the ``Load unpacked`` button.
+
+
+Usage
+-----
+
+Go to an amazon product page and click it.  That's it.
