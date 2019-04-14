@@ -16,13 +16,18 @@ Copyright (c) 2019 alertedsnake
 Installation
 ------------
 
-Git clone this somewhere, then go to chrome://extensions/ and turn on
-``Developer mode``.
+Git clone this package somewhere, or download the zipfile and unpack it.
 
-Then use the ``Load unpacked`` button.
+Next, in Chrome, navigate chrome://extensions/ and turn on ``Developer mode``.
 
+Use the ``Load unpacked`` button to install the extension by providing the
+directory with the unpacked extension, this is the directory which *contains*
+``manifest.json``, most likely named ``amzn-shrtnr``.
+
+Adjust these instructions as needed - the extension directory may end up buried
+in a subdirectory somewhere due to the unzipping process.
 
 Usage
 -----
 
-Go to an amazon product page and click it.  That's it.
+Go to an amazon product page and click the extension's icon.  That's it.
