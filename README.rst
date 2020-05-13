@@ -31,3 +31,5 @@ Usage
 -----
 
 Go to an amazon product page and click the extension's icon.  That's it.
+
+Make sure you wait for the page to fully load.
