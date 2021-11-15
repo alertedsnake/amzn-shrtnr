@@ -18,7 +18,7 @@ function checkit(request, sender, sendResponse) {
         return sendResponse({"url": "not found"})
     }
 
-    var url = "https://amzn.com/"  + matches[0];
+    var url = "https://amzn.com/dp/"  + matches[0];
     //console.log("Found short url match: " + url);
     return sendResponse({"url": url});
 }
